@@ -6,7 +6,7 @@ data/
 inception/
 vgg16/
 checkpoints/
-checkpoints*
+*checkpoints*
 logs/
 summary/
 
